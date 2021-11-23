@@ -1,2 +1,3 @@
 # python_projects
-Data visualization charts and code as well as game codes with python 
+
+In this file, I would like to share a couple of game codes in Python
